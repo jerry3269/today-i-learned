@@ -16,6 +16,8 @@ Today I Learned
 
 [L2](https://no-effort-no-gain.tistory.com/96)
 
+[L3](https://www.notion.so/L3-d605d01185d44981813d6323bd55b3f2?pvs=4)
+
 ### Database
 [DDL(Data definition Language) - 데이터 정의어](https://github.com/jerry3269/TIL/blob/main/database/%5BDATABASE%5D%20DDL%2C%20DML%2C%20DCL.md)
 
