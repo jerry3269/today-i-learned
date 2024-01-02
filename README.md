@@ -20,6 +20,8 @@ Today I Learned
 
 [L4 - TCP, UDP](https://south-leopard-b1c.notion.site/L4-08fd79de96484eb6905f6c3bb1d37f97?pvs=4)
 
+[웹을 이루는 핵심 기술](https://south-leopard-b1c.notion.site/2762ed2570ad4ea99a66026fdc18c6d1?pvs=4)
+
 ### Database
 [DDL(Data definition Language) - 데이터 정의어](https://github.com/jerry3269/TIL/blob/main/database/%5BDATABASE%5D%20DDL%2C%20DML%2C%20DCL.md)
 
