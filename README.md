@@ -7,6 +7,8 @@ Today I Learned
 
 [제네릭 프로그래밍](https://github.com/jerry3269/TIL/blob/main/java/%5BJAVA%5D%20%EC%A0%9C%EB%84%A4%EB%A6%AD%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
 
+[JVM 구동방식 및 메모리 구조](https://south-leopard-b1c.notion.site/JVM-8ae9ffeabe474ecfa898a311113c494a?pvs=4)
+
 ### Network
 [[NETWORK] OSI 7계층](https://github.com/jerry3269/TIL/blob/main/network/%5BNETWORK%5D%20OSI%207%EA%B3%84%EC%B8%B5.md)
 
