@@ -1,4 +1,6 @@
-public class problem3 {
+package chapter3;
+
+public class problem4 {
     class Solution {
         public int[][] solution(int[][] arr1, int[][] arr2) {
             int column = arr1.length;
