@@ -34,6 +34,8 @@ Today I Learned
 
 [2장. 운영체제 개요](https://south-leopard-b1c.notion.site/2-ce6fbc63af4a481d95180cddee0fdf38?pvs=4)
 
+[3장. 컴퓨터 시스템의 동작 원리](https://south-leopard-b1c.notion.site/3-d1441ea41c154dcf98639b1b2d5adefa?pvs=4)
+
 ## Server
 [서버인증(1) - 세션/쿠키, JWT](https://github.com/jerry3269/TIL/blob/main/server/%EC%84%9C%EB%B2%84%EC%9D%B8%EC%A6%9D(1)%20-%20%EC%BF%A0%ED%82%A4%2C%20JWT.md)
 
