@@ -9,6 +9,8 @@ Today I Learned
 
 [JVM 구동방식 및 메모리 구조](https://south-leopard-b1c.notion.site/JVM-8ae9ffeabe474ecfa898a311113c494a?pvs=4)
 
+[자바의 정석](https://south-leopard-b1c.notion.site/d17cb02c577c4132bbef99e56084a09e)
+
 ## Network
 [[NETWORK] OSI 7계층](https://github.com/jerry3269/TIL/blob/main/network/%5BNETWORK%5D%20OSI%207%EA%B3%84%EC%B8%B5.md)
 
