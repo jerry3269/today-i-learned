@@ -31,7 +31,9 @@ public class problem15 {
         boolean state = true;   //true: 배열이 모두 같은 숫자, false: 모두 같은 숫자가 아님
 
         for(int[] column : arr){
-            Set<Integer> columnSet = Arrays.stream(column).boxed().collect(Collectors.toSet());
+            Set<Integer> columnSet = Arrays.stream(column)
+                    .boxed()
+                    .collect(Collectors.toSet());
             
             if(columnSet.size() != 1) {   //하나의 행이 모두 같은 숫자가 아닐 경우 나가리
                 state = false;
@@ -43,6 +45,8 @@ public class problem15 {
                 break;
             }
         }
+
+        //(arr) = SubArr1 ,2 ,3 ,4
 
         if (state) {
             if(first == 0) return new int[]{1, 0};
