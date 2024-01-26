@@ -1,4 +1,4 @@
-package chapter5;
+package chapter5.Recursion;
 
 import java.util.*;
 import java.util.stream.Collectors;

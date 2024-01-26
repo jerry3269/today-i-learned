@@ -1,4 +1,4 @@
-package chapter6;
+package chapter6.ExhaustiveSearch;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
-package chapter3;
+package chapter3.Array;
 
 public class problem4 {
-    class Solution {
+    static class Solution {
         public int[][] solution(int[][] arr1, int[][] arr2) {
             int column = arr1.length;
             int row = arr2[0].length;

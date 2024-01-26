@@ -1,11 +1,14 @@
-package chapter6;
+package chapter6.ExhaustiveSearch;
 
 import java.util.*;
 
 public class problem22 {
 
     public static void main(String[] args) {
-        solution(new String[]{"frodo", "fradi", "crodo", "abc123", "frodoc"}, new String[]{"fr*d*", "abc1**"});
+        solution(
+                new String[]{"frodo", "fradi", "crodo", "abc123", "frodoc"},
+                new String[]{"fr*d*", "abc1**"}
+        );
         System.out.println(banSet.toString());
     }
 

@@ -1,4 +1,4 @@
-package chapter6;
+package chapter6.ExhaustiveSearch;
 
 public class problem19 {
 
