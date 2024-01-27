@@ -48,6 +48,8 @@ Today I Learned
 
 [6장. CPU 스케줄링](https://south-leopard-b1c.notion.site/6-CPU-bfe9e3c3cde64483805431e483178e9e?pvs=4)
 
+[7장. 메모리 관리](https://south-leopard-b1c.notion.site/7-c7f44f15b1324741a43bfe739647b2d3?pvs=4)
+
 ## Security
 
 [서버인증(1) - 세션/쿠키, JWT](https://github.com/jerry3269/TIL/blob/main/server/%EC%84%9C%EB%B2%84%EC%9D%B8%EC%A6%9D(1)%20-%20%EC%BF%A0%ED%82%A4%2C%20JWT.md)
