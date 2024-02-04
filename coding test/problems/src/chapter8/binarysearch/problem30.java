@@ -4,7 +4,6 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class problem30 {
-
     public static void main(String[] args) {
         String[] info = {
                 "java backend junior pizza 150",
@@ -128,28 +127,14 @@ public class problem30 {
             return this.occupation.name().equals(occupation);
         }
 
-
         public boolean isCareer(String career) {
             if(career.equals("-")) return true;
             return this.career.name().equals(career);
         }
 
-
         public boolean isSoulFood(String soulFood) {
             if(soulFood.equals("-")) return true;
             return this.soulFood.name().equals(soulFood);
-        }
-
-
-        @Override
-        public String toString() {
-            return "Applicant{" +
-                    "language=" + language +
-                    ", occupation=" + occupation +
-                    ", career=" + career +
-                    ", soulFood=" + soulFood +
-                    ", score=" + score +
-                    '}';
         }
     }
 
