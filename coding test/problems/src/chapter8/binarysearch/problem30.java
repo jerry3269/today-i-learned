@@ -28,12 +28,15 @@ public class problem30 {
     private static Map<String, List<Applicant>> storage = new HashMap<>();
 
     public static int[] solution(String[] info, String[] query) {
+        //지원자 info applicantList에 저장
         for (String applicantInfo : info) {
             saveApplicantInfo(applicantInfo);
         }
 
+        //정렬
         applicantList.sort(Comparator.comparing(Applicant::getScore));
 
+        //쿼리마다 쿼리문이 적용된 지원자 수 가져와 answer에 저장
         for (String queryInfo : query) {
             int count = getCountByQuery(queryInfo);
             answer.add(count);
@@ -43,15 +46,16 @@ public class problem30 {
     }
 
     private static int getCountByQuery(String queryInfo) {
-
         String replaceQueryInfo = queryInfo.replace(" and", "");
         String[] queryToken = replaceQueryInfo.split(" ");
         String key = queryToken[0] + queryToken[1] + queryToken[2] + queryToken[3];
 
+        //최적화!! language(4) * occupation(3) * career(3) * soulFood(3) = 108 --> 최악의 시간복잡도 O(5만 * 108)
         if (storage.get(key) != null) {
             return binarySearch(storage.get(key), Integer.parseInt(queryToken[4]));
         }
 
+        //info 배열의 크기 최대 50000(5만), query배열의 크기 최대 100000(10만) -> 5만 * 10만 = 시간복잡도 O(50억)
         List<Applicant> selectedList = applicantList.stream()
                 .filter(applicant -> {
                     return (applicant.isLanguage(queryToken[0]) &&
