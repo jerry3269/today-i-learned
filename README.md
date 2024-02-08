@@ -36,6 +36,8 @@ Today I Learned
 
 [1. 데이터베이스의 기본 개념 및 용어](https://south-leopard-b1c.notion.site/1-1321bd0245ba454b9d25df4610187688?pvs=4)
 
+[2. Relational Database(관계형 데이터 베이스)](https://south-leopard-b1c.notion.site/2-Relational-Database-3b5d7f4f83754cdd902d9514f690fed2?pvs=4) <br>
+
 ## Operating System
 
 [1장. 컴퓨터 및 정보기술의 역사](https://south-leopard-b1c.notion.site/1-36655a45d75c4b3fa518225a2ffa17ac?pvs=4)
