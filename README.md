@@ -34,6 +34,8 @@ Today I Learned
 
 [on, where 차이](https://github.com/jerry3269/TIL/blob/main/database/%5BDATABASE%5D%20on%2C%20where%20%EC%B0%A8%EC%9D%B4.md)
 
+[1. 데이터베이스의 기본 개념 및 용어](https://south-leopard-b1c.notion.site/1-1321bd0245ba454b9d25df4610187688?pvs=4)
+
 ## Operating System
 
 [1장. 컴퓨터 및 정보기술의 역사](https://south-leopard-b1c.notion.site/1-36655a45d75c4b3fa518225a2ffa17ac?pvs=4)
