@@ -42,6 +42,8 @@ Today I Learned
 
 [4. DB 데이터 추가, 수정, 삭제](https://south-leopard-b1c.notion.site/4-DB-a89c134e0ceb473d9fa36ae44aa938fd?pvs=4) <br>
 
+[5. SQL 데이터 조회](https://south-leopard-b1c.notion.site/5-SQL-cb13b96dae614a9a8cf43ac95c62e1f9?pvs=4) <br>
+
 ## Operating System
 
 [1장. 컴퓨터 및 정보기술의 역사](https://south-leopard-b1c.notion.site/1-36655a45d75c4b3fa518225a2ffa17ac?pvs=4)
