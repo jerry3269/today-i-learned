@@ -46,6 +46,8 @@ Today I Learned
 
 [6. SQL subquery 조회](https://south-leopard-b1c.notion.site/6-SQL-subquery-76d62c8c907148c2a339155a789ad6e1?pvs=4) <br>
 
+[7. SQL에서 NULL](https://south-leopard-b1c.notion.site/7-SQL-NULL-6db18f348e1e4500bb78d73b2d06c8d1?pvs=4) <br>
+
 ## Operating System
 
 [1장. 컴퓨터 및 정보기술의 역사](https://south-leopard-b1c.notion.site/1-36655a45d75c4b3fa518225a2ffa17ac?pvs=4)
