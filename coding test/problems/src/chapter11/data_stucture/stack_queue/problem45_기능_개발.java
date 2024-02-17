@@ -15,6 +15,7 @@ public class problem45_기능_개발 {
         Queue<Integer> queue = new LinkedList<>();
         List<Integer> result = new ArrayList<>();
 
+
         for (int i = 0; i < progresses.length; i++) {
             int day = (int) Math.ceil((100 - progresses[i])/(double) speeds[i]);
             queue.add(day);

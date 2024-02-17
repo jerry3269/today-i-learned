@@ -39,11 +39,11 @@ public class problem32 {
         return start;
     }
 
+
     private static boolean isValid(int mid, List<Integer> rocks, int n) {
         int removeCount = 0;
         int lastRock = 0;
 
-        System.out.println(mid);
         for (int rock : rocks) {
             if (rock - lastRock < mid) {
                 removeCount++;
