@@ -68,6 +68,8 @@ Today I Learned
 
 [8장. 가상메모리](https://south-leopard-b1c.notion.site/8-c1aa4252af234de0a71ef322b13b90d7?pvs=4)
 
+[9장. 디스크 관리](https://south-leopard-b1c.notion.site/9-0c66e28bb1644e3cabd05f5967c0773e?pvs=4)
+
 ## Security
 
 [서버인증(1) - 세션/쿠키, JWT](https://github.com/jerry3269/TIL/blob/main/server/%EC%84%9C%EB%B2%84%EC%9D%B8%EC%A6%9D(1)%20-%20%EC%BF%A0%ED%82%A4%2C%20JWT.md)
