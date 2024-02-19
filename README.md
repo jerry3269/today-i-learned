@@ -70,6 +70,8 @@ Today I Learned
 
 [9장. 디스크 관리](https://south-leopard-b1c.notion.site/9-0c66e28bb1644e3cabd05f5967c0773e?pvs=4)
 
+[10장. 웹캐싱 기법](https://south-leopard-b1c.notion.site/10-0953c8761bed426d9c2f5e18577e8e0b?pvs=4)
+
 ## Security
 
 [서버인증(1) - 세션/쿠키, JWT](https://github.com/jerry3269/TIL/blob/main/server/%EC%84%9C%EB%B2%84%EC%9D%B8%EC%A6%9D(1)%20-%20%EC%BF%A0%ED%82%A4%2C%20JWT.md)
