@@ -50,6 +50,8 @@ Today I Learned
 
 [8. SQL에서 JOIN](https://south-leopard-b1c.notion.site/8-SQL-JOIN-932aa225ba5a4cab8c1e116fe3eb1bfd?pvs=4) <br>
 
+[9. SQL에서 GRUOP BY와 ORDER BY](https://south-leopard-b1c.notion.site/9-SQL-GRUOP-BY-ORDER-BY-83f42b45802445ccb7d702fa45898cd7?pvs=4) <br>
+
 ## Operating System
 
 [1장. 컴퓨터 및 정보기술의 역사](https://south-leopard-b1c.notion.site/1-36655a45d75c4b3fa518225a2ffa17ac?pvs=4)
