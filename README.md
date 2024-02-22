@@ -52,6 +52,8 @@ Today I Learned
 
 [9. SQL에서 GRUOP BY와 ORDER BY](https://south-leopard-b1c.notion.site/9-SQL-GRUOP-BY-ORDER-BY-83f42b45802445ccb7d702fa45898cd7?pvs=4) <br>
 
+[14. DB 트랜잭션과 ACID속성](https://south-leopard-b1c.notion.site/14-DB-ACID-5d07b254acf445c8971771b8cd2eacdd?pvs=4) <br>
+
 ## Operating System
 
 [1장. 컴퓨터 및 정보기술의 역사](https://south-leopard-b1c.notion.site/1-36655a45d75c4b3fa518225a2ffa17ac?pvs=4)
