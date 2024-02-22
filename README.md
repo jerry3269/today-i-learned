@@ -54,6 +54,8 @@ Today I Learned
 
 [14. DB 트랜잭션과 ACID속성](https://south-leopard-b1c.notion.site/14-DB-ACID-5d07b254acf445c8971771b8cd2eacdd?pvs=4) <br>
 
+[15. concurrency control 기초 : schedule과 serializability](https://south-leopard-b1c.notion.site/15-concurrency-control-schedule-serializability-e45ad4b560a94ffa98acaf699030c79a?pvs=4) <br>
+
 ## Operating System
 
 [1장. 컴퓨터 및 정보기술의 역사](https://south-leopard-b1c.notion.site/1-36655a45d75c4b3fa518225a2ffa17ac?pvs=4)
