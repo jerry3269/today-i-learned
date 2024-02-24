@@ -58,6 +58,8 @@ Today I Learned
 
 [16. concurrency control 기초 : recoverability](https://south-leopard-b1c.notion.site/16-concurrency-control-recoverability-f1919d4ab3ec4a38ad776a9ba7114131?pvs=4) <br>
 
+[17. SQL isolation level](https://south-leopard-b1c.notion.site/17-SQL-isolation-level-6fdc7c2be9cc4161bd6cd709dff0d396?pvs=4) <br>
+
 ## Operating System
 
 [1장. 컴퓨터 및 정보기술의 역사](https://south-leopard-b1c.notion.site/1-36655a45d75c4b3fa518225a2ffa17ac?pvs=4)
