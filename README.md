@@ -60,6 +60,10 @@ Today I Learned
 
 [17. SQL isolation level](https://south-leopard-b1c.notion.site/17-SQL-isolation-level-6fdc7c2be9cc4161bd6cd709dff0d396?pvs=4) <br>
 
+[18. LOCK을 활용한 concurrency control 기법 (+2PL)](https://south-leopard-b1c.notion.site/18-LOCK-concurrency-control-2PL-9d64c52a5ae44235a486016058d9e327?pvs=4) <br>
+
+
+
 ## Operating System
 
 [1장. 컴퓨터 및 정보기술의 역사](https://south-leopard-b1c.notion.site/1-36655a45d75c4b3fa518225a2ffa17ac?pvs=4)
