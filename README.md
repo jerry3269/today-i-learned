@@ -62,6 +62,8 @@ Today I Learned
 
 [18. LOCK을 활용한 concurrency control 기법 (+2PL)](https://south-leopard-b1c.notion.site/18-LOCK-concurrency-control-2PL-9d64c52a5ae44235a486016058d9e327?pvs=4) <br>
 
+[19. DB MVCC - postgreSQL](https://south-leopard-b1c.notion.site/19-DB-MVCC-postgreSQL-c07939fbff204c34970c0f0bfcc230ec?pvs=4) <br>
+
 
 
 ## Operating System
