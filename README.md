@@ -64,6 +64,8 @@ Today I Learned
 
 [19. DB MVCC - postgreSQL](https://south-leopard-b1c.notion.site/19-DB-MVCC-postgreSQL-c07939fbff204c34970c0f0bfcc230ec?pvs=4) <br>
 
+[20. DB MVCC - MySQL](https://south-leopard-b1c.notion.site/20-DB-MVCC-MySQL-ada7bf8ba0f643eaaf1c328fa47168e2?pvs=4) <br>
+
 
 
 ## Operating System
