@@ -66,6 +66,8 @@ Today I Learned
 
 [20. DB MVCC - MySQL](https://south-leopard-b1c.notion.site/20-DB-MVCC-MySQL-ada7bf8ba0f643eaaf1c328fa47168e2?pvs=4) <br>
 
+[21. DB 테이블을 잘못 설계하면 발생할 수 있는 문제들](https://south-leopard-b1c.notion.site/21-DB-aed506042e0949208f1950e1d9c4b47b?pvs=4) <br>
+
 
 
 ## Operating System
