@@ -70,6 +70,10 @@ Today I Learned
 
 [22. DB Functional Dependency(FD)](https://south-leopard-b1c.notion.site/22-DB-Functional-Dependency-FD-3b63dc01578e49bc954c1befa3afe214?pvs=4) <br>
 
+[23. FD로 DB 정규화 - 개념, 1NF, 2NF](https://south-leopard-b1c.notion.site/23-FD-DB-1NF-2NF-db3aeb062ee04a679730a3d8d9b87f97?pvs=4) <br>
+
+
+
 
 
 ## Operating System
