@@ -72,6 +72,10 @@ Today I Learned
 
 [23. FD로 DB 정규화 - 개념, 1NF, 2NF](https://south-leopard-b1c.notion.site/23-FD-DB-1NF-2NF-db3aeb062ee04a679730a3d8d9b87f97?pvs=4) <br>
 
+[24. DB 정규화 - 3NF, BCNF, 역정규화](https://south-leopard-b1c.notion.site/24-DB-3NF-BCNF-f5593f9914574cc599b726ed02365f49?pvs=4) <br>
+
+
+
 
 
 
