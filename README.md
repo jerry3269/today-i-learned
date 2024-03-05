@@ -74,7 +74,7 @@ Today I Learned
 
 [24. DB 정규화 - 3NF, BCNF, 역정규화](https://south-leopard-b1c.notion.site/24-DB-3NF-BCNF-f5593f9914574cc599b726ed02365f49?pvs=4) <br>
 
-
+[25. DB 인덱스](https://south-leopard-b1c.notion.site/25-DB-a904e0d6c8344d7fa3bfb230435da5d6?pvs=4) <br>
 
 
 
