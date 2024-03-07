@@ -76,7 +76,7 @@ Today I Learned
 
 [25. DB 인덱스](https://south-leopard-b1c.notion.site/25-DB-a904e0d6c8344d7fa3bfb230435da5d6?pvs=4) <br>
 
-
+[26. B tree - 개념과 특징, 데이터 삽입 과정](https://south-leopard-b1c.notion.site/26-B-tree-acd46bec76064b8186349e9775a34781?pvs=4) <br>
 
 
 
