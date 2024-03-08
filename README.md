@@ -78,6 +78,10 @@ Today I Learned
 
 [26. B tree - 개념과 특징, 데이터 삽입 과정](https://south-leopard-b1c.notion.site/26-B-tree-acd46bec76064b8186349e9775a34781?pvs=4) <br>
 
+[27. B tree - 데이터 삭제 과정](https://south-leopard-b1c.notion.site/27-B-tree-1928fbb8fb2644d69acdd7a9a96d608e?pvs=4) <br>
+
+
+
 
 
 ## Operating System
