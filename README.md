@@ -80,7 +80,7 @@ Today I Learned
 
 [27. B tree - 데이터 삭제 과정](https://south-leopard-b1c.notion.site/27-B-tree-1928fbb8fb2644d69acdd7a9a96d608e?pvs=4) <br>
 
-
+[28. B tree - 왜 인덱스의 자료구조인가?](https://south-leopard-b1c.notion.site/28-B-tree-7f3fba392fb34d1dabf14a27ff10d731?pvs=4) <br>
 
 
 
