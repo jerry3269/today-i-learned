@@ -3,7 +3,7 @@ package chapter12.implement.bfs;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class problem61_개인_맵_최단거리 {
+public class problem61_게임_맵_최단거리 {
     private static final int[] dx = {0, 1, 0, -1};
     private static final int[] dy = {-1, 0, 1, 0};
 
