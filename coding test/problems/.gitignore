@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 
 src/igAworks/
+src/madup/
 
 ### Eclipse ###
 .apt_generated
