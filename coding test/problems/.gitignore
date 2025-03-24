@@ -3,8 +3,8 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-src/igAworks/
-src/madup/
+src/ig_aworks/
+src/mad_up/
 src/emro/
 
 ### Eclipse ###
